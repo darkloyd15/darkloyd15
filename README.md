@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tim  
-- 👀 I’m interested in Gaming, Programming and hanginng out with my friends
+- 👀 I’m interested in Gaming, Programming and hanging out with my friends
 - 🌱 I’m currently learning Java and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
